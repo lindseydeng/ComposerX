@@ -8,7 +8,7 @@ This is code for paper "ComposerX: Multi-Agent Symbolic Music Composition with L
 
 This is our demo page:[here](https://lllindsey0615.github.io/ComposerX_demo/)
 
-This is out demo video [here](https://www.youtube.com/watch?v=ObukjN-6yD8))
+This is our demo video [here](https://www.youtube.com/watch?v=ObukjN-6yD8))
 
 
 ## Preparation
